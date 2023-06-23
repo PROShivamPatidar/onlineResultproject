@@ -1,0 +1,45 @@
+
+body{
+  background-image:url('hm.jpg');
+  background-image:no-repeat;  
+  background-size:100% 100% ;
+}
+#mymenu
+{
+    background-color:rgba(0,0,0,0.6);
+    color:white;
+    text-align:right;
+    
+}
+#mymenu ul li:hover
+{
+    background:green;
+
+}
+#mymenu a
+{
+   color:white; 
+   text-decoration:none;
+}
+#mymenu ul li
+{
+    display: inline-block;
+    padding:20px;
+}
+
+table
+{
+     margin-top:150px; 
+     background-color:rgba(0,0,0);
+     color:white;
+    box-shadow:20px 20px 20px red; 
+}
+.B 
+{
+   background:linear-gradient(red,blue);
+   color:white;   
+}
+.A
+{
+   border-radius:30px;
+}    
